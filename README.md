@@ -81,7 +81,7 @@
       </TBODY>
    </TABLE>
    
-- Delete -> /api/v1/cliente/{id}
+- Delete -> /api/v1/clientes/{id}
    <TABLE>   
      <THEAD>
        <TH COLSPAN=2>PARAMETROS</TH>
