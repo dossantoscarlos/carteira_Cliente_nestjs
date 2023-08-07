@@ -34,7 +34,7 @@
             </TR>
           </TBODY>
       </TABLE>
-- GET -> /api/v1/clientes/{status}
+- GET -> /api/v1/clientes/status/status}
   <TABLE>
      <THEAD>
         <TH COLSPAN="2">PARAMETROS</TH>
