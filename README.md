@@ -48,7 +48,7 @@
       </TR>
   </TABLE>
   
-- GET -> /api/v1/cliente/{id}
+- GET -> /api/v1/clientes/{id}
      <TABLE>   
          <THEAD>
            <TH COLSPAN=2>PARAMETROS</TH>
@@ -70,7 +70,7 @@
       </TBODY>
   </TABLE>  
   
-- PUT ->  /api/v1/cliente/{id}
+- PUT ->  /api/v1/clientes/{id}
   <TABLE>   
      <THEAD>
        <TH COLSPAN=3>PARAMETROS</TH>
